@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/OnderBilir/SpaceGame%20-%20web%20-%20Pipeline/_apis/build/status/onderbilir.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/OnderBilir/SpaceGame%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
